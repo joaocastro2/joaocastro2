@@ -2,11 +2,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim...</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Me chamo João Vitor, tenho 19 anos. <br><br>📚 Cursando Análise e desenvolvimento de sistemas (4° semestre)<br></p>
 
 ###
 
