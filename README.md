@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻  Sobre mim...</h3>
 
-<p align="left">Me chamo João Vitor, tenho 19 anos. <br><br>📚 Cursando Análise e desenvolvimento de sistemas (4° semestre)<br></p>
+<p align="left">Me chamo João Vitor, tenho 19 anos. <br><br>📚 Cursando Análise e desenvolvimento de sistemas (6° semestre)<br></p>
 
 ###
 
