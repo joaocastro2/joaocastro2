@@ -1,4 +1,4 @@
-# :bust_in_silhouette: João Vitor de Freitas Castro
+# :bust_in_silhouette: João Castro
 
 **`Desenvolvedor backend`**
 
