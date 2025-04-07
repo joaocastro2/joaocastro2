@@ -1,33 +1,82 @@
-<h1 align="center">OLÁ! 👋</h1>
+# :bust_in_silhouette: João Vitor de Freitas Castro
 
-###
+**`Desenvolvedor backend`**
 
-<h3 align="left">👩‍💻  Sobre mim...</h3>
+ Olá, me chamo João Vitor, atualmente tenho 19 anos e estou
+ cursando o quinto semestre em Análise e desenvolvimento de
+ sistemas, Entrei na área pois gostava muito de hardware, redes e
+ relacionados, mas com o tempo despertei uma enorme paixão
+ pelo desenvolvimento, Comecei estudando banco de dados e
+ python, mas não demorou muito para descobrir o mundo java,
+ atualmente estudo a um ano e conheço algumas bibliotecas e
+ framework como o Spring e Lombok, por exemplo.
+ Estou na reta final da minha graduação mas com pensamento
+ sobre o início da minha pós, ainda na reta final deste ano
 
-<p align="left">Me chamo João Vitor, tenho 19 anos. <br><br>📚 Cursando Análise e desenvolvimento de sistemas (5° semestre)<br></p>
+---
+### 🤖 Linguagens e Tecnologias
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="SqlDev"
+    title="SqlDev" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
 
-###
+<br/>
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Joaocastro2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<h3 align="left">🔥   My Stats :</h3>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocastro2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaocastro2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+</p>
