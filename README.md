@@ -3,7 +3,7 @@
 **`Desenvolvedor backend`**
 
  Olá, me chamo João Vitor, atualmente tenho 20 anos e estou
- cursando o primeiro semestre em Engenharia de Software, Entrei na área pois gostava muito de hardware, redes e
+ cursando o primeiro semestre DA PÓS em Engenharia de Software, Entrei na área pois gostava muito de hardware, redes e
  relacionados, mas com o tempo despertei uma enorme paixão
  pelo desenvolvimento, Comecei estudando banco de dados e
  python, mas não demorou muito para descobrir o mundo java,
