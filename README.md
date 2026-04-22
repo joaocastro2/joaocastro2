@@ -2,15 +2,10 @@
 
 **`Desenvolvedor backend`**
 
- Olá, me chamo João Vitor, atualmente tenho 20 anos e estou
- cursando o primeiro semestre DA PÓS em Engenharia de Software, Entrei na área pois gostava muito de hardware, redes e
- relacionados, mas com o tempo despertei uma enorme paixão
- pelo desenvolvimento, Comecei estudando banco de dados e
- python, mas não demorou muito para descobrir o mundo java,
- atualmente estudo a um ano e conheço algumas bibliotecas e
- framework como o Spring e Lombok, por exemplo.
- Estou na reta final da minha graduação mas com pensamento
- sobre o início da minha pós, ainda na reta final deste ano
+Desenvolvedor de software proativo e dedicado, formado em Análise e desenvolvimento de sistemas e Pós graduando em Engenharia de software, focado na construção de aplicações escaláveis e APIs REST de alta
+performance utilizando JAVA e SPRING BOOT. Tenho sólida experiência na documentação de processos internos e na
+elaboração de relatórios complexos via SQL. Valorizo a liderança, aprendizado e colaboração em equipe, atualmente estou
+expandindo meus conhecimentos em infraestrutura cloud, dedicando-me à certificação AWS Certified Cloud Practitioner.
 
 ---
 ### 🤖 Linguagens e Tecnologias
