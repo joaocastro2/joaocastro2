@@ -1,76 +1,29 @@
-# :bust_in_silhouette: João Vitor de Freitas Castro
+# Oi 👋, Me chamo Joao Vitor
 
-**`Desenvolvedor backend`**
+🚀 **Desenvolvedor Java Júnior | Formado em ADS e Pós graduando em Engenharia de Software**  
 
-Desenvolvedor de software proativo e dedicado, formado em Análise e desenvolvimento de sistemas e Pós graduando em Engenharia de software, focado na construção de aplicações escaláveis e APIs REST de alta
-performance utilizando JAVA e SPRING BOOT. Tenho sólida experiência na documentação de processos internos e na
-elaboração de relatórios complexos via SQL. Valorizo a liderança, aprendizado e colaboração em equipe, atualmente estou
-expandindo meus conhecimentos em infraestrutura cloud, dedicando-me à certificação AWS Certified Cloud Practitioner.
+Sou um desenvolvedor de Software focado na criação de **soluções backend escaláveis, eficientes e de alta disponibilidade para os setores financeiro e de tecnologia**. Com uma trajetória que evoluiu da **infraestrutura e suporte** para a **engenharia de software**. Tenho experiência prática na construção de arquiteturas baseadas em **microsserviços** com **Java** e forte domínio em **SQL** para **otimização de consultas e manipulação de dados**.
+Graduado em **Análise e Desenvolvimento de Sistemas** e cursando pós-graduação em **Engenharia de Software**, busco continuamente evolução técnica. Atualmente, aprofundo meus conhecimentos em serviços de nuvem focando na certificação **AWS**, visando estruturar **microsserviços** modernos, resilientes e totalmente integrados à nuvem.
 
 ---
-### 🤖 Linguagens e Tecnologias
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="SqlDev"
-    title="SqlDev" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joaocastro2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocastro2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+---
