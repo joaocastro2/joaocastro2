@@ -1,29 +1,33 @@
-# Oi 👋, Me chamo Joao Vitor
+<div align="center">
 
-🚀 **Desenvolvedor Java Júnior | Formado em ADS e Pós graduando em Engenharia de Software**  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Engenheiro+de+Software+Backend;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microsservi%C3%A7os+%E2%80%A2+Kafka;De+Infra+%26+Dados+a+Arquiteturas+Escal%C3%A1veis" alt="Typing SVG" />
+</a>
 
-Sou um desenvolvedor de Software focado na criação de **soluções backend escaláveis, eficientes e de alta disponibilidade para os setores financeiro e de tecnologia**. Com uma trajetória que evoluiu da **infraestrutura e suporte** para a **engenharia de software**. Tenho experiência prática na construção de arquiteturas baseadas em **microsserviços** com **Java** e forte domínio em **SQL** para **otimização de consultas e manipulação de dados**.
-Graduado em **Análise e Desenvolvimento de Sistemas** e cursando pós-graduação em **Engenharia de Software**, busco continuamente evolução técnica. Atualmente, aprofundo meus conhecimentos em serviços de nuvem focando na certificação **AWS**, visando estruturar **microsserviços** modernos, resilientes e totalmente integrados à nuvem.
+**Engenheiro de Software Backend | Formado em ADS & Pós-graduando em Engenharia de Software (UCB)**  
+*Construindo sistemas resilientes, consultas otimizadas e arquiteturas orientadas a eventos.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-castro2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoaocastro2@gmail.com)
+[![GitHub Foundations GH-900](https://img.shields.io/badge/Certificado_GH--900-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/joovitordefreitascastro-6742/credentials/820bea143e8a1e6d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-## 🛠️ Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+</div>
 
 ---
+
+### 👨‍💻 `application.yml` — Sobre Mim
+
+```yaml
+developer:
+  name: João Vitor de Freitas
+  role: Backend Software Engineer
+  location: Brasília, DF 🇧🇷
+  journey:
+    - 2023: "Início no suporte técnico e infraestrutura (onde aprendi como sistemas quebram)"
+    - 2024: "Imersão em bancos de dados relacionais, relatórios e otimização SQL"
+    - 2025-2026: "Liderança de processos de dev em parceira & sistemas corporativos com Java/Spring"
+  focus:
+    - Arquitetura de Microsserviços & Mensageria Assíncrona (Apache Kafka)
+    - Alta disponibilidade, segurança (JWT) e engenharia de dados relacional
+    - Cloud Computing (AWS) & boas práticas de Engenharia de Software
+  status: "Aberto a oportunidades como Desenvolvedor Backend 🚀"
